@@ -1,0 +1,131 @@
+1)
+<html lang="en">
+<title>Document</title>
+    <head>
+        guvi
+    </head>
+<body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+2)
+
+<html lang="en">
+<title>Document</title>
+    <head>
+        guvi
+    </head>
+<body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+5)
+
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.google.com">google</a> 
+</body>
+</html>
+
+
+6)
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Type</h1>
+
+<form>
+  
+  <input type="radio" id="html" name="fav_language" value="Salaried">
+  <label for="html">Salaried</label><br>
+  <input type="radio" id="css" name="fav_language" value="Own Business">
+  <label for="css">Own Business</label>
+  
+ 
+</form>
+
+</body>
+</html>
+
+
+9)
+
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="datetime">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+
+
+10)
+<!DOCTYPE html>
+<html>
+<body>
+<p style="color:blue"><u>HTML and CSS are Awesome</u></p>
+</body>
+</html>
+
+
+
+
+11)
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
